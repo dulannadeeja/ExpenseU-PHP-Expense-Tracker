@@ -1,0 +1,19 @@
+{
+    "name": "dulan/expenseu-expense_tracker",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dulan nadeeja",
+            "email": "dulannadeeja@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^5.4",
+        "symfony/cache": "^5.4",
+        "vlucas/phpdotenv": "*"
+    }
+}
