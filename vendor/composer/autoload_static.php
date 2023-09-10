@@ -34,6 +34,10 @@ class ComposerStaticInit92b48d04e197eca5aca37c8361f006fb
             'Psr\\Cache\\' => 10,
             'PhpOption\\' => 10,
         ),
+        'M' => 
+        array (
+            'Migrations\\' => 11,
+        ),
         'G' => 
         array (
             'GrahamCampbell\\ResultType\\' => 26,
@@ -100,6 +104,10 @@ class ComposerStaticInit92b48d04e197eca5aca37c8361f006fb
         'PhpOption\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
+        ),
+        'Migrations\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Migrations',
         ),
         'GrahamCampbell\\ResultType\\' => 
         array (

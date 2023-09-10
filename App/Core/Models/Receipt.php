@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Models;
+namespace App\Core\Models;
 
-class Receipt
+class Receipt extends Model
 {
     private int $id;
     private int $transactionId;

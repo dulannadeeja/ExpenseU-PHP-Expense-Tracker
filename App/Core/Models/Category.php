@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Models;
+namespace App\Core\Models;
 
-class Category
+class Category extends Model
 {
     private int $id;
     private int $userId;
